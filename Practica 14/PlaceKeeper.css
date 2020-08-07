@@ -1,0 +1,16 @@
+#car1 {
+ background-color: rgb(71, 149, 152); 
+ text-align: center;
+ color: white;
+ height: 50px;
+ 
+}
+#puntero{
+    height: 35px;
+}
+#cuerpo{
+    background-color: rgb(237, 237, 237);
+}
+#texto{
+    color: rgb(141, 138, 138);
+}
