@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+
+body{
+    font-family: sans-serif;
+
+}
+#b{
+    height : 100vh;
+    background-color: rgb(29, 29, 62);
+    margin-right: 0%;
+    padding-right: 0px;
+    padding-left: 0px;
+    float: left;
+}
+#cuadromenu{
+    background-color: rgb(39, 39, 78);
+    padding: 0px;
+
+}
+.tvseries{
+    width: 70%;
+    margin-left: 5% ;
+}
+.menu{
+    width: 100%;
+}
+.menu2{
+    width: 100%;
+}
+.menu ul{
+    
+    list-style: none; 
+    cursor: pointer; 
+    width: 80%;
+    margin-left: 20% ; 
+}
+
+.menu li {
+    display: block;
+    padding: 10px 10px;
+    color: white;
+    text-decoration:none;
+}
+.menu2 ul{
+   
+    list-style: none;
+    cursor: pointer;  
+    width: 80%;
+    margin-left: 20% ; 
+}
+.menu2 li {
+    display: block;
+    color: rgb(133, 131, 131);
+    text-decoration:none; 
+}
+.menu li:hover{
+    background-color: rgba(83, 200, 232, .3);
+}
+.menu2 li:hover{
+    background-color: rgba(83, 200, 232, .3);
+}
+#categorias{
+    color: white;
+}
+#usuario{
+    background-color: rgb(39, 39, 78);
+    color: white;
+    border-radius: 20px;
+}
+#usuario img{
+    width: 20%;
+}
+#heder{
+    background-color: rgb(29, 29, 62);
+    padding: 0px;
+}
+#fondo{
+    background-color: rgb(29, 29, 62);
+    color: white;
+}
+.pelicula{
+    width: 100%;
+    float: left;
+    margin-right: 5%;
+}
+.pelicula img {
+    width: 100%;
+}
+#corazon{
+    background-color: rgb(39, 39, 78);
+    color: white;
+    border-radius: 20px;
+    margin-top: -18%;
+}
+#corazon img{
+    width: 40%;
+    
+}
+#nombre{
+    color: white;
+
+}
+#genero{
+    color: rgb(133, 133, 133);
+    margin-top: -15%;
+    font-size: 72.5%;
+}
+#likes{
+    color: white;
+    font-size: 72.5%;
+    display:inline;
+}
